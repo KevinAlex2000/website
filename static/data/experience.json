@@ -1,0 +1,24 @@
+[
+  {
+    "business": "Redneurocom",
+    "job": "Desarrollador de Software",
+    "since": "Dic 2019",
+    "until": "Ene 2021",
+    "chores": [
+      "Desarrollo de sistemas web en PHP y Node js.",
+      "Desarrollo de sistemas de escritorio en WinForms (C#).",
+      "Desarrollo de página web en WordPress.",
+      "Mantenimiento y Soporte de sistemas web."
+    ]
+  },
+  {
+    "business": "Xenosbit",
+    "job": "Desarrollador de Software",
+    "since": "Ago",
+    "until": "Nov 2019",
+    "chores": [
+      "Desarrollo de página web en WordPress.",
+      "Mantenimiento de sistema Punto de venta."
+    ]
+  }
+]

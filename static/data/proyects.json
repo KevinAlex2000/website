@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Generador de iconos PNG",
+    "description": "Aplicacion de escritorio para generar iconos de distinto color y tamaño en formato png",
+    "description_long": "Este programa de escritorio fue realizado con la interfaz de programacion de aplicacion grafica WinForm para generar iconos del color y tamaño elegido y luego guardarlos en formato png. Puede ser utilizado para colocar iconos en documentos Word, PowerPoint y demas",
+    "tecnologies": ["winform", "C#"],
+    "github": "https://github.com/KevinAlex2000/icon-generator-png",
+    "cover": "/img/generador-iconos.png",
+    "screenshots": [
+      "/img/icon-generator-png/image-1.png",
+      "/img/icon-generator-png/image-2.png",
+      "/img/icon-generator-png/image-3.png"
+    ],
+    "link": "/proyects/icon-generator-png.zip"
+  },
+  {
+    "title": "Paginas multiples de Facebook",
+    "description": "Realiza acciones en multiples paginas de manera rapida",
+    "description_long": "Esta aplicación le permite a la empresa realizar acciones como postear o programar un post de manera masiva en diversas paginas de facebook.",
+    "tecnologies": ["PHP", "SDK Facebook", "Jquery"],
+    "cover": "/img/facebook.jpg",
+    "screenshots": [
+      "/img/multi-facebook/image-1.png",
+      "/img/multi-facebook/image-2.png",
+      "/img/multi-facebook/image-3.png"
+    ]
+  },
+  {
+    "title": "MultiChat WhatsApp",
+    "description": "Aplicacion web desarrollado para poder acceder a una cuenta whatsapp desde diferentes localizaciones",
+    "description_long": "Esta aplicación fue desarrollada para poder utilizar distintas cuentas de whatsapp en diferentes localizaciones para asi poder resolver la necesidad de la empresa de que mas de uno pueda atender clientes contactados por whatsapp",
+    "tecnologies": ["Node JS", "Express", "Jquery", "Soquets"],
+    "cover": "/img/whatsapp.jpg",
+    "screenshots": [
+      "/img/multi-whatsapp/image-1.png",
+      "/img/multi-whatsapp/image-2.png",
+      "/img/multi-whatsapp/image-3.png",
+      "/img/multi-whatsapp/image-4.png"
+    ]
+  },
+  {
+    "title": "Biblioteca fontawesome para winform",
+    "description": "Biblioteca creada con el lenguaje c# pensada para colocar iconos de fontawesome de manera rapida, sencilla y dinámica en su interfaz",
+    "description_long": "Esta biblioteca te brinda distintas herramientas que incluyen iconos de fontawesome para el diseño de una interfaz mas interactiva, puedes configurar propiedades como el tipo del icono o el color de este.",
+    "tecnologies": ["winform", "C#"],
+    "github": "https://github.com/KevinAlex2000/fontawesome-for-winform",
+    "cover": "/img/biblioteca-fontawesome.jpg",
+    "screenshots": [
+      "/img/fontawesome-for-winform/image-1.png",
+      "/img/fontawesome-for-winform/image-2.png",
+      "/img/fontawesome-for-winform/image-3.png"
+    ],
+    "link": "/proyects/library-fontawesome-for-winform.zip"
+  },
+  {
+    "title": "Graficos Trading",
+    "description": "Muestra graficos trading, con indicadores técnicos opcionales, agrupados en stocks",
+    "description_long": "Realizada para que al cliente le permita crear grupos de stocks para la visualizacion de graficos trading de los seleccionados, ya sean historicos o en tiempo real. Tambien teniendo la posibilidad de agregar indicadores tecnicos disponibles",
+    "tecnologies": ["Node JS", "Express", "Jquery", "Socket"],
+    "cover": "/img/trading.jfif",
+    "screenshots": [
+      "/img/trading/image-1.png",
+      "/img/trading/image-2.png",
+      "/img/trading/image-3.png"
+    ]
+  },
+  {
+    "title": "Graficos Trading",
+    "description": "Muestra graficos trading, con indicadores técnicos opcionales, agrupados en stocks",
+    "description_long": "Realizada para que al cliente le permita crear grupos de stocks para la visualizacion de graficos trading de los seleccionados, ya sean historicos o en tiempo real. Tambien teniendo la posibilidad de agregar indicadores tecnicos disponibles",
+    "tecnologies": ["Node JS", "Express", "Jquery", "Socket"],
+    "cover": "/img/trading.jfif",
+    "screenshots": [
+      "/img/trading/image-1.png",
+      "/img/trading/image-2.png",
+      "/img/trading/image-3.png"
+    ]
+  }
+]
